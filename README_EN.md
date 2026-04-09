@@ -50,4 +50,4 @@ House Blend Coffee, Soy, Mocha, Whip $1.34
 ```
 
 ## Screenshot
-(Please add a screenshot of the running program)
+![Screenshot](screenshot.png)
